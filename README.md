@@ -1,2 +1,2 @@
-# Shopify-Question
+# Shopify Technical Challenge
 hvznhv
